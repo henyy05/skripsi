@@ -20,7 +20,7 @@
             <div class="col-lg-12 card-content">
                 <center>
                     <br>
-                    <h3>PEMETAAN GEOGRAFIS</h3>
+                    <h3>PEMETAAN LAHAN PERTANIAN GEOGRAFIS</h3>
                 </center>
             </div>
            {{-- <div class="col-md-4 card-content bg-white rounded-1 box-shadow-1">
@@ -186,35 +186,6 @@
            
    
     </script>
-
-<!-- <div class="container text-center">
-    <div class="card-header pt-1 row">
-        <div class="col-lg-12 card-content">
-            <center>
-                <br>
-                <h3> Informasi Aplikasi </h3>
-            </center>
-        </div>
-        <div class="d-flex justify-content-center">
-            <p style="font-size: 17px;text-align:justify">
-                Badan Penyuluhan Pertanian (BPP) Suluh Tani Abadi saat ini sebagaimana di atur dalam 
-                UU No. 16 Tahun 2006 tentang Sistem Penyuluhan Pertanian, Perikanan dan Kehutanan (SP3K) 
-                bahawa pada tingkat Kecamatan kelembangaan penyuluhan disebut Balai Penyuluhan Pertanian 
-                (BPP). Gedung Balai Penyuluhan ini di dirikan pada tahun 1983 di pergunakan sebagai 
-                Balai Penyuluhan Pertanian dan semenjak terbentuknya telah terjadi beberapa kali pergantian 
-                pimpinan tercatat sejak difungsikannya untuk menjadi wadah penyuluh sebagai basis penyuluhan 
-                ditingkat kecamatan. <br> Status bangunan BPP ini merupakan milik pemerintah, yang memilik 
-                luas lahan 15.000 M² dengan bangunan kantor BPP seluas 140 M². Rumah petugas 72 M2 lahan percontohan 
-                meliputi lahan jeruk seluas 2.000 M², lahan Karet 4.000 M Lahan Kelapa seluas 5.000 M² dan kolam ikan 
-                seluas 35 M². Pekarangan dan lahan sayuran 3.753 M2. <br>
-                Namun pada tahun 2017 di bulan desember di kantor BPP suluh tani abadi palaran terjadi kebakaran, dan mulai pembangunan
-                ulang pada tahun 2018 di bulan februari dan sampai saat ini luas BPP terhitung 22.207 Ha 
-                yang memiliki beberapa ruangan yaitu , ruangan koordinator BPP , ruangan staff, ruangan penyuluh,
-                ruangan sidang, ruangan perpustakaan, musholah, dapur dan WC. <br>
-            </p>
-        </div>
-    </div>
-</div> -->
 
 </body>
 </html>

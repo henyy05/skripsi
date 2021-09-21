@@ -7,7 +7,7 @@
         <!-- row -->
         <div class="row">
                 <center>
-                    <h3>APLIKASI SIG PEMETAAN LAHAN PERTANIAN BPP KEC.PALARAN</h3> 
+                    <h3>APLIKASI SIG PEMETAAN LAHAN PERTANIAN KEC.PALARAN</h3> 
                 </center>
 
             <!-- post Atas -->
