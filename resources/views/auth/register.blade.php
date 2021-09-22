@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Register BPP Suluh Tani Abadi Kec.Palaran</title>
+    <title>Register Sig Kec.Palaran | Registration </title>
 
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
@@ -33,12 +33,12 @@
 <body class="hold-transition register-page">
 <div class="register-box">
     <div class="register-logo">
-        <a href="{{ url('/home') }}"><b>Register Member Baru</b></a>
+        <a href="{{ url('/home') }}"><b>Register</b></a>
     </div>
 
     <div class="card">
         <div class="card-body register-card-body">
-            <p class="login-box-msg">Silahkan Di Isi Dengan Lengkap</p>
+            <p class="login-box-msg">Register a new membership</p>
 
             <form method="post" action="{{ route('register') }}">
                 @csrf
@@ -95,16 +95,23 @@
                 </div>
 
                 <div class="row">
-                    
+                    <div class="col-8">
+                        <div class="icheck-primary">
+                            <input type="checkbox" id="agreeTerms" name="terms" value="agree">
+                            <label for="agreeTerms">
+                                I agree to the <a href="#">terms</a>
+                            </label>
+                        </div>
+                    </div>
                     <!-- /.col -->
                     <div class="col-4">
-                        <button type="submit" class="btn btn-primary btn-block">Daftar</button>
+                        <button type="submit" class="btn btn-primary btn-block">Register</button>
                     </div>
                     <!-- /.col -->
                 </div>
             </form>
 
-            <a href="{{ route('login') }}" class="text-center">Sudah Punya Akun ?</a>
+            <a href="{{ route('login') }}" class="text-center">I already have a membership</a>
         </div>
         <!-- /.form-box -->
     </div><!-- /.card -->

@@ -14,7 +14,7 @@
             <div class="col-md-6">
                 <a class="post-img" >
                     <center>
-                    <img src="{{asset('front/img/pegawai.jpg')}}" width="1090px" height="500px"></a>
+                    <img src="{{asset('front/img/tes.jpg')}}" width="1090px" height="700px"></a>
                     </center>
                 <div class="post-body">
             </div>
